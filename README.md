@@ -68,7 +68,7 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
 <br/>
 <br/>
 
-> ✨ *"Building technology that connects people, solves problems, and creates impact — one project at a time."*
+<p align="center"> <em>"Building technology that connects people, solves problems, and creates impact — one project at a time."</em></p>
 
 ---
 
