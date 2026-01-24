@@ -22,9 +22,6 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
   <a href="https://www.instagram.com/_sourav____sharma_">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/sourav13sharma/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
@@ -35,7 +32,7 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
   <a href="mailto:souravsharma13here@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -63,14 +60,14 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
 
 ## 🚀 Featured Projects:
 
-* 🚌 **Smart Transit Monitoring App**
-  Real-time transit tracking using **in-app GPS**, React Native, Node.js, MySQL & Maps APIs
+* 🚌 **Smart Transit Monitoring App:**
+  A real-time transit tracking system using **in-app GPS**, React Native, Node.js, MySQL & Maps APIs for live route visibility and monitoring.
 
-* 📋 **Attendify**
-  Smart attendance system with authentication, real-time tracking, and Firebase backend
+* 📋 **Attendify:**
+  A smart attendance management platform with secure authentication, real-time tracking, and a scalable **Firebase-powered backend**.
 
-* 💬 **Meshage**
-  Peer-to-peer messaging app that enables **direct device-to-device communication without internet or network connectivity**, built with modern mobile architecture
+* 💬 **Meshage:**
+  A **peer-to-peer messaging app** that enables direct **device-to-device communication without internet or network connectivity**, built with modern mobile architecture.
 
 ---
 
@@ -81,6 +78,8 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
   <img src="https://nirzak-streak-stats.vercel.app/?user=Sourav13here&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav13here&theme=dark&hide_border=false&layout=compact" />
 </div>
+
+>  *"Building technology that connects people, solves problems, and creates impact — one project at a time."*
 
 ---
 
