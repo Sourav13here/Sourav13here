@@ -60,9 +60,11 @@ Currently, I’m expanding my skill set in **AI, Machine Learning, and data-driv
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sourav13here&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sourav13here&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav13here&theme=dark&hide_border=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sourav13here&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" /><br/>
+  
+  <img src="https://streak-stats.demolab.com?user=Sourav13here&theme=dark&hide_border=false" /><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav13here&theme=dark&hide_border=false&layout=compact&cache_seconds=1800" />
 </div>
 
 <br/>
